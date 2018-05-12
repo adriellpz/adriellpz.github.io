@@ -8,7 +8,10 @@ html {
 }
 
 body {
-    text-align:
+    background-image: url("loravolitacos.jpg");
+    background-repeat:no-repeat;
+    background-position: right;
+    background-size: contain;
     background: #;
     color: # white;
     font-family: anaphora;
